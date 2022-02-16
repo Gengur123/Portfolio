@@ -8,17 +8,17 @@ const Header = () =>  (
   <Container>
     <Div2>
       <li>
-        <Link href="#projects">
+        <Link href="https://gengur123.github.io/Portfolio/#projects">
           <NavLink>Projects</NavLink>
         </Link>
       </li>
       <li>
-        <Link href="#tech">
+        <Link href="https://gengur123.github.io/Portfolio/#tech">
           <NavLink>Technologies</NavLink>
         </Link>
       </li>
       <li>
-        <Link href="#about">
+        <Link href="https://gengur123.github.io/Portfolio/#aboutt">
           <NavLink>About</NavLink>
         </Link>
       </li>
